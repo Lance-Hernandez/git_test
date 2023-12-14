@@ -1,1 +1,3 @@
 Hi everyone, my name is Lance.
+
+I'm testing out "changing the Git commit message editor"
